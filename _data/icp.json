@@ -4,7 +4,6 @@
                 "text":  "IBM Cloud private V1.2, the next-generation private cloud, helps to transform enterprise workloads with cloud native services and analytical insights"
             },
             "media": {
-                "url": "https://www.ibm.com/cloud/private",
                 "thumbnail":    "https://joshisa.github.io/icp-chronos/assets/img/plainenglish.png"
             }
     },
@@ -18,7 +17,6 @@
             "media": {
                 "caption": "IBM Cloud Private",
                 "credit": "IBM",
-                "url": "https://www.ibm.com/developerworks/community/blogs/fe25b4ef-ea6a-4d86-a629-6f87ccf4649e/entry/IBM_Cloud_private_formerly_IBM_Spectrum_Conductor_for_Containers_version_1_2_0_is_now_available?lang=en",
                 "thumbnail": 	"https://joshisa.github.io/icp-chronos/assets/img/plainenglish.png"
             },
             "text": {
