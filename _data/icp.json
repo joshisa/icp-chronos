@@ -4,7 +4,7 @@
                 "text":  "IBM Cloud private V1.2, the next-generation private cloud, helps to transform enterprise workloads with cloud native services and analytical insights"
             },
             "media": {
-                "url": "https://www.ibm.com/blogs/bluemix/2017/06/ibm-announces-kubernetes-base-ibm-cloud-private-platform/",
+                "url": "https://www.ibm.com/cloud/private",
                 "thumbnail":    "https://cdn-images-1.medium.com/max/1600/1*Ts27nWoaxqA7rvfrnhVa1Q.png"
             }
     },
@@ -18,7 +18,7 @@
             "media": {
                 "caption": "Twain caricatured by Spy for Vanity Fair, 1908",
                 "credit": "Vanity Fair",
-                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mark_Twain_Vanity_Fair_1908-05-13.jpeg/375px-Mark_Twain_Vanity_Fair_1908-05-13.jpeg",
+                "url": "https://raw.githubusercontent.com/joshisa/icp-chronos/master/assets/img/plainenglish.png",
                 "thumbnail": 	"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mark_Twain_Vanity_Fair_1908-05-13.jpeg/375px-Mark_Twain_Vanity_Fair_1908-05-13.jpeg"
             },
             "text": {
