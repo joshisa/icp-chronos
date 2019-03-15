@@ -1,10 +1,11 @@
 {
     "title": {
             "text": {
-                "text":  "IBM Cloud private V1.2, the next-generation private cloud, helps to transform enterprise workloads with cloud native services and analytical insights"
+                "text":  "IBM Cloud Private is a reliable and scalable cloud platform that runs on your infrastructure. It’s built on open-source frameworks, like containers, Kubernetes and Cloud Foundry, with common services for self-service deployment, monitoring, logging and security, as well as a portfolio of middleware, data and analytics."
             },
             "media": {
-                "thumbnail":    "https://joshisa.github.io/icp-chronos/assets/img/plainenglish.png"
+                "url": "https://www.youtube.com/watch?v=UL_jXJoRPdY"
+                "thumbnail":  "https://joshisa.github.io/icp-chronos/assets/img/plainenglish.png"
             }
     },
     "events": [
