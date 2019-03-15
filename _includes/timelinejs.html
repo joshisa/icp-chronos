@@ -49,5 +49,6 @@ font.unicaone-vollkorn.css
   // and the element must have CSS styling to give it width and height
   // optionally, a third argument with configuration options can be passed.
   // See below for more about options.
-  timeline = new TL.Timeline('timeline-embed', {{ site.data.twain }});
+  var timeline_json = {{ site.data.twain }};
+  timeline = new TL.Timeline('timeline-embed', timeline_json);
 </script>
