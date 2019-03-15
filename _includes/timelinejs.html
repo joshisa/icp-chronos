@@ -41,7 +41,7 @@ font.unicaone-vollkorn.css
   var options = {
     is_embed: true,
     is_full_embed: true,
-    scale_factor: 1
+    initial_zoom: 5
   }
 
   // The TL.Timeline constructor takes at least two arguments:
@@ -52,5 +52,5 @@ font.unicaone-vollkorn.css
   // optionally, a third argument with configuration options can be passed.
   // See below for more about options.
   var timeline_json = {{ site.data.icp | jsonify }};
-  timeline = new TL.Timeline('timeline-embed', timeline_json);
+  timeline = new TL.Timeline('timeline-embed', timeline_json, options);
 </script>
